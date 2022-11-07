@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1650469655 source:d:\project final\board.cpp
+	"Board.h"
+
+1650469656 d:\project final\board.h
+	<iostream>
+
+1650469656 source:d:\project final\main.cpp
+	<iostream>
+	"Referee.h"
+
+1650469655 d:\project final\referee.h
+	<iostream>
+	<stdlib.h>
+	"Board.h"
+	"Player.h"
+
+1650469656 d:\project final\player.h
+	<iostream>
+
+1650469656 source:d:\project final\player.cpp
+	"Player.h"
+
+1650469655 source:d:\project final\referee.cpp
+	"Referee.h"
+
